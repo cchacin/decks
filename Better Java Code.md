@@ -1,7 +1,12 @@
-<!-- $theme: gaia -->
+<!--
+$theme: gaia
+prerender: true
+-->
 
-Talo
+Better Java Code
 ====
+
+###### Carlos Chacin ( [@cchacin](https://github.com/cchacin) )
 ---
 
 > *There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.* -- Tony Hoare
@@ -9,7 +14,6 @@ Talo
 ![20%](images/hoare.jpeg)
 
 ---
-### G
 
 - Use DI / IoC
 - Don't comment to cover up bad code
@@ -19,7 +23,7 @@ Talo
 - Favor high cohesion
   - frecuency of changes
   - high cohesion == low cyclomatic complexity
-- FAvor loose coupling
+- Favor loose coupling
   - Eliminate if possible :D
 - Prefer clear code over clever code
 - Meaninful names
